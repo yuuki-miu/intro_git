@@ -7,3 +7,4 @@ Gitの練習をします。
 ・git diff
 ・git clone
 ・git add
+・git リベース
